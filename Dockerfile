@@ -1,3 +1,3 @@
-FROM n8nio/n8n:1.123.16@sha256:83eed64f99e9b55ca31bf79d52d7e65da774900c2ed3ed5422bcfdf72736bee0
+FROM n8nio/n8n:2.4.5@sha256:1e57b650fa1884af5c52cac2e3d9f05bb6701a6b4214bb74d2a334cc0bb9296d
 
 USER root
